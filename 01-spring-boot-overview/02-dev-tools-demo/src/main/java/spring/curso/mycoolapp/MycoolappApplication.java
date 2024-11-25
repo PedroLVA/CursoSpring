@@ -1,4 +1,4 @@
-package com.first.project.mycoolapp;
+package spring.curso.mycoolapp;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
